@@ -1,0 +1,14 @@
+name: 'IT Accessibility Playbook'
+description: 'Accessibility Playbook provides a framework for building a Section 508 program'
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - 508
+    - accessibility
+    - maturity
+    - policy
+    - procurement
+    - playbook
+    - IT
+contact:
+    email: section.508@gsa.gov
