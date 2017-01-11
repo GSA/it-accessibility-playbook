@@ -3,7 +3,7 @@ description: 'Accessibility Playbook provides a framework for building a Section
 openSourceProject: 1
 governmentWideReuseProject: 1
 tags:
-    - 508
+    - '508'
     - accessibility
     - maturity
     - policy
